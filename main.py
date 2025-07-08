@@ -17,3 +17,8 @@ with col2:
     showcase website I built from scratch!""")
 
     st.info(content)
+
+st.title("")
+add = """Below are some of my apps I have created. Feel free to contact me!"""
+
+st.write(add)
